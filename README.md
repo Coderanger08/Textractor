@@ -115,4 +115,5 @@ but every decision, problem-solving step, and customization was done **manually*
 
 ## Links  
 **GitHub Repository:** [Coderanger08](https://github.com/Coderanger08)
+
 **Google Docs API Guide:** [Google Docs API Docs](https://developers.google.com/docs/api) 
